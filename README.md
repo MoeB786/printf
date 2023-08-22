@@ -51,4 +51,4 @@ If an output error is encountered, a negative value is returned.
 
 
 Author
-_printf() is written and maintained by Muhammad Bismilla and Yusuf Rahmam
+_printf() is written and maintained by Muhammad Bismilla and Yusuf Rahman
